@@ -35,3 +35,11 @@
 -Aprendendo a usar ul, ol e li.
 
 -------------------------------------------------------------------------------------
+
+## Introdução e conceitos básicos do CSS3
+
+# Introdução ao CSS3
+
+-Adicionando arquivo style.css a pasta.
+-Adicionando IDs e Classes aos títulos.
+-Alterando cores e tamanho de títulos.
