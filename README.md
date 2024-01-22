@@ -43,3 +43,16 @@
 -Adicionando arquivo style.css a pasta.
 -Adicionando IDs e Classes aos títulos.
 -Alterando cores e tamanho de títulos.
+
+-------------------------------------------------------------------------------------
+
+# Conceitos básicos
+
+-Exercício: adicionar cores a alguns elementos para observarmos o box-model.
+-Ao visualizar o box-model no inspecionar da página podemos ver:
+    Em azul, o conteúdo do box-model.
+    Em verde, o padding, que é o espaçamento entre o conteúdo e a borda.
+    Em marrom, vemos a borda.
+    Em laranja vemos a margem do box-model.
+
+-------------------------------------------------------------------------------------
