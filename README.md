@@ -67,3 +67,7 @@
 -Mudamos a cor de alguns elementos.
 
 -------------------------------------------------------------------------------------
+
+# Estilizando Textos
+
+-Exercício: Vamos fazer algumas mudanças no nosso texto.
