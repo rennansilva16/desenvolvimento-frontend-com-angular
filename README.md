@@ -56,3 +56,15 @@
     Em laranja vemos a margem do box-model.
 
 -------------------------------------------------------------------------------------
+
+## Estilizando Elementos, Textos e Listas
+
+# Estilizando Elementos
+
+-Exercício: Nesta aula vamos deixar o site um pouco mais bonitos usando algumas propriedades.
+-Vamos alinhar alguns elementos.
+    Começamos zerando a margem do post_title, colocando margem apenas na parte inferior.
+
+    Adicionamos uma classe no conteúdo chamada post_content, depois zeramos a margem dela e deixamos apenas na parte inferior.
+
+-É uma boa prática manter as margens sempre na mesma direção, no nosso cado escolheremos colocar a margem só abaixo.
