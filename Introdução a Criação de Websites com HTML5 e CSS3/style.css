@@ -46,3 +46,11 @@ a {
 .post_image {
     margin-bottom: 15px;
 }
+
+.contacts_list {
+    list-style-type: square;
+}
+
+.contacts_list li a {
+    text-decoration: none;
+}

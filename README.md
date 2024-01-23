@@ -71,3 +71,19 @@
 # Estilizando Textos
 
 -Exercício: Vamos fazer algumas mudanças no nosso texto.
+-Alteramos a fonte e tamanho dos nossos textos e links.
+
+-------------------------------------------------------------------------------------
+
+# Estilizando Listas
+
+-Exercício: Vamos melhorar a aparência da nossa lista.
+-Transformamos a lista ordenada(ol), em lista não ordenada(ul).
+-Usamos "list-style-type:square" para transformar marcador em quadrado.
+-Como é uma lista de contatos, removemos os marcadores colocando como valor"none".
+-Usamos padding-left na classe contacts_list para alinhar mais os elementos da lista com o conteúdo. Usamos 15px.
+-Mudamos a aparência dos contatos que estava com a mesma aparência dos links no texto.
+-Fizemos isso selecionando a classe "contacts_list", selecionando os elementos que queriamos alterar, ficando da seguinte forma: ".contacts_list li a {}".
+-Usamos o "text-decoration" para zerar o valor e tirar a linha que cortava os nomes dos contatos.
+
+-------------------------------------------------------------------------------------
