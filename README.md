@@ -87,3 +87,16 @@
 -Usamos o "text-decoration" para zerar o valor e tirar a linha que cortava os nomes dos contatos.
 
 -------------------------------------------------------------------------------------
+
+# Dimensão e Alinhamento
+
+## Propriedades de dimensão e alinhamento
+
+-Exercício: Vamos delimitar as dimensões dos nossos elementos e alinhar o nosso conteúdo.  
+-Vamos colocar largura no "body" de "900px", para os elementos não ficarem ocupando todo o espaço da página.  
+-Vamos colocar a largura da imagem do bloco de código em 100% para ela sempre respeitar o limite do tamanho do elemento que está de fora. Fazemos isso com o "width".  
+-Usamos o valor "auto" da propriedade "margin", para criar um espaçamento do lado esquerdo e direito do conteúdo da página. Colocamos a margin no "body".  
+Ao invés de colocar "width" no "body", vamos colocar "max-width" para o tamanho da largura poder se adequar a telas menores.  
+-Vamos deixar o conteúdo do nosso post justificado usando o valor "justify" da propriedade "text-align".
+
+-------------------------------------------------------------------------------------
