@@ -86,3 +86,17 @@ Entre os parêntes após o toFixed, colocamos o número de casas decimais que qu
 #### O que foi feito no código  
 -  Teste explicando o uso de dois e três sinais de iguais respectivamente.
 <hr>
+
+### Estrutura Condicional com If e Else
+#### Anotações da Aula
+-  O "**if"** é um operador condicional.
+-  O if serve para verificar se um trecho de código será executado ou não.
+-  Podemos usar a negação em uma condicional usando o **"!"**.
+-  Ao usar a negação não precisamos criar outra condicional.  
+-  Podemos comentar uma linha de código usando a tecla **/** duas vezes.
+#### O que foi feito no código
+-  Foi feito exemplos de programas para verificar se um número é par ou ímpar usando operadores condicionais.
+-  Foi feito um exemplo usando o operador de negação e apenas o if.
+-  Outro exemplo foi feito usando o else.
+-  Programa alterado para ver se número é divisível por 5.  
+<hr>
