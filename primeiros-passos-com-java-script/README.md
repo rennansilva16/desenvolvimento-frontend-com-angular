@@ -39,3 +39,13 @@ Foi falado na aula como será a dinâmica do curso.
 #### O que foi feito no código
 - Anotação do exercício proposto no arquivo de exercício.  
 <hr>
+
+### Resolução Guiada do Exercício - Parte 1  
+#### Anotações da Aula
+-  Para comentar um trecho de código usar o **"/*** para abrir o bloco de comentário, e **"*/** para fechar o bloco de comentário.
+-  Digitar as primeiras letras do arquivo ao executar um programa e apertar a tecla tab, faz com que o resto do nome do arquivo seja digitado sozinho.
+-  É importante sempre finalizar as linhas de código com **"ponto e vírgula"** por convenção e para não dar problema no código.
+-  Sempre por o ponto e vírgula colado no código.
+#### O que foi feito no código  
+-  Resolução do exercício proposto.
+<hr>
