@@ -14,3 +14,13 @@ Teremos sempre três arquivos:
 
 Foi falado na aula como será a dinâmica do curso.
 <hr>
+
+### Console e Como Declarar Variáveis  
+#### Anotações da aula  
+- Para executar o arquivo iremos usar o comando **"node + nome-do-arquivo.js"**.  
+- O comando **"console.log('');"** serve para imprimir algo.
+- Podemos usar dois tipos de variáveis: O **"let"** e o **"const"**. O let é uma variável que pode ter seu valor modificado a qualquer momento e a variável const não pode ter seu valor alterado.
+#### O que foi feito no código  
+- Teste das váriaveis **"let"** e **"const"**.
+- Teste do comando **"console.log('');"**.
+<hr>
