@@ -1,7 +1,3 @@
-let variavel = 10
+let variavel = 10 / 10;
 
-variavel = 20;
-
-const pi = 3.14;
-
-console.log('imprimir algo');
+console.log(variavel);

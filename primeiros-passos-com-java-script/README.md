@@ -24,3 +24,11 @@ Foi falado na aula como será a dinâmica do curso.
 - Teste das váriaveis **"let"** e **"const"**.
 - Teste do comando **"console.log('');"**.
 <hr>
+
+### Diferenças Entre Variáveis e Tipos de Operadores  
+#### Anotações da Aula
+- Não precisamos usar as **"aspas simples('')"** no comando console.log ao usar nomes de variaveis.
+#### O que foi feito no código
+- Imprimiu o valor da variável let usando o **"console.log(variavel);"**.
+- Testes, imprimindo usando as variáveis let e const.
+<hr>
