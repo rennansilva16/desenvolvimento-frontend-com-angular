@@ -77,3 +77,12 @@ Entre os parêntes após o toFixed, colocamos o número de casas decimais que qu
 #### O que foi feito no código  
 -  Programa criado para ver se um valor é par ou ímpar.  
 <hr>
+
+### Tipos de Operadores de Igualdade  
+#### Anotações da aula  
+-  Dois iguais também serve como sinal de igualdade.
+-  Usando dois sinais de igualdade, ele ignora se é número ou string.
+-  É usado os três sinais de iguais para fazer as comparações de maneira explícita.  
+#### O que foi feito no código  
+-  Teste explicando o uso de dois e três sinais de iguais respectivamente.
+<hr>
