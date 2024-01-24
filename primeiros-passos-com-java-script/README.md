@@ -32,3 +32,10 @@ Foi falado na aula como será a dinâmica do curso.
 - Imprimiu o valor da variável let usando o **"console.log(variavel);"**.
 - Testes, imprimindo usando as variáveis let e const.
 <hr>
+
+### Exercício Cálculo de Valor de uma Viagem
+#### Anotações da Aula  
+- Apresentação do exercício proposto.  
+#### O que foi feito no código
+- Anotação do exercício proposto no arquivo de exercício.  
+<hr>
