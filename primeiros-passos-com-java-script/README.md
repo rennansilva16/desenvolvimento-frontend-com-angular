@@ -49,3 +49,12 @@ Foi falado na aula como será a dinâmica do curso.
 #### O que foi feito no código  
 -  Resolução do exercício proposto.
 <hr>
+
+### Resolução Guiada do Exercício - Parte 2  
+#### Anotações da Aula  
+-  Uma forma simples de arredondar uma variável quebrada é converter a variável em um texto usando o **".toFixed"**. o trecho de código fica assim: **console.log(valorGasto.toFixed(2));**.  
+Entre os parêntes após o toFixed, colocamos o número de casas decimais que queremos que mostre no resultado.  
+#### O que foi feito no código
+-  Teste usando número que resultasse em uma variável quebrada.
+-  Uso do toFixed para arredondar o número quebrado.
+<hr>
