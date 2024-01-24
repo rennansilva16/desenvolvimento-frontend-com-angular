@@ -61,8 +61,19 @@ Entre os parêntes após o toFixed, colocamos o número de casas decimais que qu
 
 ## Estruturas Condicionais  
 
-### Conceito de Boolean e Condicionais  
+### Conceito de Boolean e Condicionais 
+#### Anotações da aula 
 -  O **boolean** serve para expressar um valor verdadeiro ou falso.
 -  As **condicionais** serve para ver se uma determinada situação é verdadeiro ou falso.  
-### O que foi feito no código
--  Teste de condicionais e booleans.
+#### O que foi feito no código
+-  Teste de condicionais e booleans.  
+<hr>
+
+### Exemplo com resto de divisão
+#### Anotações da aula  
+-  Para ver se um número é igual a outro usamos três sinais de igualdade, **"==="**.
+-  Para verificar o resto de uma divisão utilizamos o seguinte trecho de código: **"(numero % 2) === 0;"**
+-  Condicionais sempre retornaram valores booleanos.  
+#### O que foi feito no código  
+-  Programa criado para ver se um valor é par ou ímpar.  
+<hr>
