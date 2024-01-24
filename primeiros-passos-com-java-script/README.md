@@ -58,3 +58,11 @@ Entre os parêntes após o toFixed, colocamos o número de casas decimais que qu
 -  Teste usando número que resultasse em uma variável quebrada.
 -  Uso do toFixed para arredondar o número quebrado.
 <hr>
+
+## Estruturas Condicionais  
+
+### Conceito de Boolean e Condicionais  
+-  O **boolean** serve para expressar um valor verdadeiro ou falso.
+-  As **condicionais** serve para ver se uma determinada situação é verdadeiro ou falso.  
+### O que foi feito no código
+-  Teste de condicionais e booleans.
