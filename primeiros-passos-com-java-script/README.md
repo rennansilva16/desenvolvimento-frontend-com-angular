@@ -1,8 +1,14 @@
 # Curso: Primeiros Passos com Java Script da Dio  
-## Informações sobre estudos  
-- Vai ter uma Branch para cada modúlo do curso.  
-- Serão feitos commits após cada aula.
-- Mudanças na pasta ou mudanças próprias nos arquivos ou na pasta serão feitas na branch main.
+## Informações sobre estudos e dicas gerais  
+-  Vai ter uma Branch para cada modúlo do curso.  
+-  Serão feitos commits após cada aula.
+-  Mudanças na pasta ou mudanças próprias nos arquivos ou na pasta serão feitas na branch main.  
+-  Para executar um programa no terminal, é preciso primeiramente entrar em cada pasta onde está o arquivo usando o **"./"**.  
+Uma boa dica também, é usar a tecla **tab** depois de colocar as primeiras letras da pasta ou arquivo, para completar o resto do nome.  
+-  Para recortar e colar algo selecionado, usamos o **CTRL + X** para recortar e o **CTRL V** para colar.  
+-  
+-  Para arrastar uma linha de código sem precisar copiar e colar, para onde quisermos, basta **segurarmos o alt e usar as teclas cima ou baixo.**  
+-  Para formatarmos o nosso código usamos o atalho **ALT + SHIFT + F.**  
 
 ## Variáveis e Operadores
 
@@ -131,4 +137,13 @@ Podemos usar como exemplo o nome **"isNumeroEPar"**.
 5 - Distância em km da viagem.
 #### O que foi feito no código  
 -  Tentativa de resolução do código sem funcionar completamente(falta saber como será feito a escolha de etanol ou gasolina).
+<hr>
+
+### Resolução Guiada do Exercício  
+#### Anotações da Aula  
+-  No Java Script, por convenção, colocamos strings sempre por aspas simples ou pela crase.
+-  Ao criar uma váriavel dentro de um bloco de código, dentro de um if por exemplo, aquela variável só irá funcionar dentro daquele bloco de código.  
+Para fazer com que funcione fora do bloco de código, temos que criar a varável fora do bloco de código.  
+#### O que foi feito no código
+-  Resolução do exercício proposto com auxilio do professor.
 <hr>
