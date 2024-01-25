@@ -100,3 +100,12 @@ Entre os parêntes após o toFixed, colocamos o número de casas decimais que qu
 -  Outro exemplo foi feito usando o else.
 -  Programa alterado para ver se número é divisível por 5.  
 <hr>
+
+### Estrutura Condicional com Else If  
+#### Anotações da Aula  
+-  O **"else if"** serve para executar um comando específico caso o if não seja executado.  
+Com o else if sendo executado, as outras condicionais não são mais executadas.  
+-  Eu posso colocar quantos else if eu quiser. 
+#### O que foi feito no código  
+-  Código alterado usando o else if como condicional caso o número escolhido seja 0.
+<hr>
