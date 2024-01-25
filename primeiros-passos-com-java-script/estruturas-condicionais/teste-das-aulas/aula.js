@@ -25,7 +25,7 @@ console.log(numeroPar);
 
 
 /*
-Testes/Programas Aula - Exemplo com Resto de Divisão
+Testes/Programas Aula - Estrutura Condicional com If e Else
 
 
 
@@ -75,7 +75,7 @@ const numeroDivisivelPor5 = (numero % 5) === 0;
 
 
  /* 
- Testes/Treino Aula - Exemplo com Resto de Divisão
+ Testes/Treino Aula - Estrutura Condicional com Else If
 
 
 const numero = 0;
@@ -91,3 +91,17 @@ const numeroDivisivelPor5 = (numero % 5) === 0;
     console.log('Não')
  }
  */
+
+
+
+/*
+const numero = 5;
+const ehNumeroPar = (numero % 2) === 0;
+
+ if (ehNumeroPar === 0) {
+    console.log('O número par');
+ }
+    else {
+    console.log('O número é ímpar');
+ }
+*/

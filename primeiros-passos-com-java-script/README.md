@@ -109,3 +109,13 @@ Com o else if sendo executado, as outras condicionais não são mais executadas.
 #### O que foi feito no código  
 -  Código alterado usando o else if como condicional caso o número escolhido seja 0.
 <hr>
+
+### Revisão e Dicas de Boas Práticas  
+#### Anotações da aula  
+-  É uma convenção, quando estivermos colocando nomes em variáveis booleanas, colocar o prefixo **"is"**.  
+-  Se for colocar em português, podemos usar o **"eh"**.
+Podemos usar como exemplo o nome **"isNumeroEPar"**.  
+#### O que foi feito no código  
+-  Testes de revisão no código.
+-  Alteração do código utilizando prefixo convencional no nome e diminuição nas linhas de código.
+<hr>
