@@ -119,3 +119,16 @@ Podemos usar como exemplo o nome **"isNumeroEPar"**.
 -  Testes de revisão no código.
 -  Alteração do código utilizando prefixo convencional no nome e diminuição nas linhas de código.
 <hr>
+
+### Exercício - Incremento do Cálculo de Valor de uma Viagem  
+#### Anotações da aula  
+-  Realizar incremento no exercício anterior do cálculo de valor uma viagem.
+-  Nesse exercício será utilizado 5 váriaveis:  
+1 - Preço do Etanol.  
+2 - Preço da gasolina.  
+3 - O tipo de combustível que está no carro.  
+4 - Gasto médio de combustível do carro por km.  
+5 - Distância em km da viagem.
+#### O que foi feito no código  
+-  Tentativa de resolução do código sem funcionar completamente(falta saber como será feito a escolha de etanol ou gasolina).
+<hr>
