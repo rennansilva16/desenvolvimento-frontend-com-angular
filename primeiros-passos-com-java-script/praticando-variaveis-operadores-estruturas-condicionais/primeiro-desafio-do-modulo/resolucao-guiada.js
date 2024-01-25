@@ -10,14 +10,14 @@ Classificação:
 
 const nota1 = 7;
 const nota2 = 7;
-const nota3 = 7;
+const nota3 = 8;
+const media = (nota1 + nota2 + nota3) / 3;
+console.log(media);
 
-const mediaAluno = (nota1 + nota2 + nota3) / 3;
-
-if (mediaAluno < 5) {
-    console.log('Aluno reprovou');
-} else if (mediaAluno >= 5 && mediaAluno <= 7) {
-    console.log('Aluno está de recuperação');
+if (media < 5) {
+    console.log('Reprovação');
+} else if (media >= 5 && media <= 7) {
+    console.log('Recuperação');
 } else {
-    console.log('Aluno passou');
+    console.log('Passou de semestre');
 }

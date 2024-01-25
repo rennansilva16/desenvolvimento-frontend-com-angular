@@ -156,3 +156,10 @@ Fazer um algoritmo que dada as 3 notas de um aluno em um semestre da faculdade c
 #### O que foi feito no código  
 -  Resolução do exercício.
 <hr>
+
+### Resolução Guiada do Exercício 1  
+#### Anotações da aula  
+-  É sempre importante quando for fazer operações matemáticas, seguir todas as regras de matemáticas.  
+#### O que foi feito no código  
+-  Resolução do exercício proposto guiado pelo professor.  
+<hr>
