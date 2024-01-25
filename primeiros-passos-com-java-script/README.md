@@ -163,3 +163,10 @@ Fazer um algoritmo que dada as 3 notas de um aluno em um semestre da faculdade c
 #### O que foi feito no código  
 -  Resolução do exercício proposto guiado pelo professor.  
 <hr>
+
+### Exercício 2 - Cálculo IMC  
+#### Anotações da aula  
+-  Proposta de exercício para a elaboração de um programa para mostrar sua condição de acordo com a tabela apresentada no arquivo da tentatica de do código.  
+#### O que foi feito no código  
+-  Resolução do exercício proposto.  
+<hr>
