@@ -147,3 +147,12 @@ Para fazer com que funcione fora do bloco de código, temos que criar a varável
 #### O que foi feito no código
 -  Resolução do exercício proposto com auxilio do professor.
 <hr>
+
+## Praticando com Variáveis, Operadores e Estruturas Condicionais  
+### Exercício 1 - Media de Notas
+#### Anotações da aula  
+-  Resolver o seguinte problema:  
+Fazer um algoritmo que dada as 3 notas de um aluno em um semestre da faculdade calcule e imprima a sua média e a sua classificação.  
+#### O que foi feito no código  
+-  Resolução do exercício.
+<hr>
