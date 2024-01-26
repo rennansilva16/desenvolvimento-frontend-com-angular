@@ -176,4 +176,12 @@ Fazer um algoritmo que dada as 3 notas de um aluno em um semestre da faculdade c
 -  Geralmente só usamos palavra com todas as letras maiúsculas em nomes de variáveis, quando a variável é uma constante que não sofre alteração de valor em nenhum momento.  
 -  Ao fazer cálculos matemáticos, podemos usar bibliotecas com fórmulas prontas.  
 #### O que foi feito no código  
--  Resolução guiada usando a fórmula ja criada **"Math.pow(altura , 2)"**.
+-  Resolução guiada usando a fórmula ja criada **"Math.pow(altura , 2)"**.  
+<hr>
+
+### Exercício 3 - Valor Pago de um Produto
+#### Anotações da aula  
+-  Proposta de exercício para a elaboração de um programa para cálcular o que deve ser pago por um produto, considerando o preço normal de etiqueta e a escolha da condição de pagamento.  
+#### O que foi feito no código  
+-  Resolução do exercício usando apenas o if e o else if, sem usar o else na última condição.  
+<hr>
