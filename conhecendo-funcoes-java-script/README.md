@@ -28,4 +28,12 @@
 -  Criação de função com cálculo IMC.
 -  Criação da função main com impressão das mensagems de imc.  
 -  Exercício proposto, usando funções, resolvido e funcionando.  
+<hr>  
+
+### Exemplo Prático com Funções  
+#### Anotações da aula  
+-  É importante colocar todo trecho de código que pudermos isolar, dentro de uma função.  
+#### O que foi feito no código  
+-  Resolução do exercício proposto usando três funções: A main, a de classificação do imc e a do cálculo de imc.
+-  Resolução do exercício proposto mais simplificado e mais legível comparado ao da tentativa do exercício.  
 <hr>
