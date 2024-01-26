@@ -170,3 +170,10 @@ Fazer um algoritmo que dada as 3 notas de um aluno em um semestre da faculdade c
 #### O que foi feito no código  
 -  Resolução do exercício proposto.  
 <hr>
+
+### Resolução Guiada do Exercício 2  
+#### Anotações da aula  
+-  Geralmente só usamos palavra com todas as letras maiúsculas em nomes de variáveis, quando a variável é uma constante que não sofre alteração de valor em nenhum momento.  
+-  Ao fazer cálculos matemáticos, podemos usar bibliotecas com fórmulas prontas.  
+#### O que foi feito no código  
+-  Resolução guiada usando a fórmula ja criada **"Math.pow(altura , 2)"**.
