@@ -184,4 +184,13 @@ Fazer um algoritmo que dada as 3 notas de um aluno em um semestre da faculdade c
 -  Proposta de exercício para a elaboração de um programa para cálcular o que deve ser pago por um produto, considerando o preço normal de etiqueta e a escolha da condição de pagamento.  
 #### O que foi feito no código  
 -  Resolução do exercício usando apenas o if e o else if, sem usar o else na última condição.  
+<hr>  
+
+### Resolução Guiada do Exercício 3  
+#### Anotações da Aula  
+-  Para resolvermos esse exercício, ao invés de ficar escrevendo as palavras de cada opção que temos, podemos simplificar enumerando as opções que temos de 1 até 4.  
+Éssa é uma melhor maneira de pensar ao programar.  
+-  Na programação, não devemos tratar todas as questões de maneira literal. Precisamos tentar simplificar os problemas e tentar abstrair eles para uma forma que podemos resolver mais facilmente.
+#### O que foi feito no código  
+-  Resolução do código de maneira mais simplificada comparando com a tentativa de resolução do exercício.  
 <hr>
