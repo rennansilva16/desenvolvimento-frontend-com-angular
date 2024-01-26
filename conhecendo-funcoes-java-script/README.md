@@ -18,3 +18,14 @@
 -  Exemplos explicando como funcionam as funções.
 -  Trecho de código explicando como usar uma função, usando o exemplo de incrementar juros em cima de um valor.  
 <hr>
+
+### Como Organizar Funções  
+#### Anotações da aula  
+-  Agora, vamos fazer sempre o nosso código principal dentro de uma função que chamaremos de main.  
+-  Criaremos outras funções fora da nossa função main, e chamaremos essas outras funções sempre que precisarmos dela.  
+-  Vamos resolver o exercício do cálculo de IMC dentro de funções para ir se acostumando com as funções.  
+#### O que foi feito no código  
+-  Criação de função com cálculo IMC.
+-  Criação da função main com impressão das mensagems de imc.  
+-  Exercício proposto, usando funções, resolvido e funcionando.  
+<hr>

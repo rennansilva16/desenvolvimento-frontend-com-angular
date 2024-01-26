@@ -10,3 +10,22 @@ function incrementarJuros (valor, percentualJuros) {
  console.log(incrementarJuros(100, 15));
  console.log(incrementarJuros(100, 20));
  */
+
+
+
+
+
+ /*
+Testes/Treino Aula - Como Organizar Funções
+*/
+
+function calcularJuros() {
+
+}
+
+function main() {
+    console.log('Programa principal');
+    calcularJuros();
+}
+
+main();
