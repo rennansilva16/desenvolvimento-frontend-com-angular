@@ -37,3 +37,13 @@
 -  Resolução do exercício proposto usando três funções: A main, a de classificação do imc e a do cálculo de imc.
 -  Resolução do exercício proposto mais simplificado e mais legível comparado ao da tentativa do exercício.  
 <hr>
+
+### Funções Invocada Imediatamente  
+#### Anotações da aula  
+-  Funções no JavaScript também são valores que conseguimos manipular.  
+-  As funções também são objetos. Podemos usar o valor delas como váriaveis e parâmetros para outras funções também.  
+-  Também podemos reatribuir novos valores para funções.  
+-  Ao colocarmos **parênteses** entre uma função e depois **abrirmos e fecharmos parênteses logo após o fechamento de parênteses dessa função**, ao executarmos o código, essa função é invocada imediatamente.  
+A sintaxe disso fica dessa forma: **"( function () { *"aqui vai o código da função"* }) ();"**.  
+Ao fazer isso eu posso até tirar o nome dessa função, sendo chamada de função não nomeada. E essa função fica existindo apenas dentro desse parênteses, sem ser possível chama-lá em outro lugar do código.  
+Isso serve para executarmos determinados trechos de código apenas uma vez.
