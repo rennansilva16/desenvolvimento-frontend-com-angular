@@ -9,34 +9,23 @@ Código Condição de pagamento:
 
 Objetivo: Separar programa em funções
 */
-const formaDePagamento = 1;
-
-// if (formaDePagamento === 1) {
-//     console.log(precoEtiqueta - (precoEtiqueta * 0.1));
-// } else if (formaDePagamento === 2) {
-//     console.log(precoEtiqueta - (precoEtiqueta * 0.15));
-// } else if (formaDePagamento === 3) {
-//     console.log(precoEtiqueta);
-// } else {
-//     console.log(precoEtiqueta + (precoEtiqueta * 0.1));
-// }
 function aplicarDesconto(precoEtiqueta, desconto) {
-    return precoEtiqueta - (precoEtiqueta * desconto);
+    return precoEtiqueta - (precoEtiqueta * desconto / 100);
 };
 
 function aplicarJuros(precoEtiqueta, juros) {
-    return precoEtiqueta + (precoEtiqueta * juros);
+    return precoEtiqueta + (precoEtiqueta * juros / 100);
 };
 
 function escolherFormaDePagamento(precoEtiqueta, condicao) {
     if (condicao === 1) {
-       return valorTotal = aplicarDesconto(precoEtiqueta, 0.1);
+       return valorTotal = aplicarDesconto(precoEtiqueta, 10);
     } else if (condicao === 2) {
-        return valorTotal = aplicarDesconto(precoEtiqueta, 0.15);
+        return valorTotal = aplicarDesconto(precoEtiqueta, 15);
     } else if (condicao === 3) {
         return precoEtiqueta;
     } else {
-        return precoEtiqueta + aplicarJuros(precoEtiqueta, 0.1);
+        return valorTotal = aplicarJuros(precoEtiqueta, 10);
     }
 };
 
@@ -45,4 +34,4 @@ function main(precoEtiqueta, condicaoDePagamento) {
     console.log('O valor total do produto é ' + valorTotal);
 };
 
-main(100, 4);
+main(100, 10);

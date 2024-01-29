@@ -76,4 +76,8 @@ Isso serve para executarmos determinados trechos de código apenas uma vez.
 
 ### Exercício Guiado 4 - Funções Para Calcular Preço  
 #### Anotações da aula  
--  Devemos criar um programa que separe em funções, a resolução do exercício sobre calcular descontos e juros, que fizemos em uma aula passada.
+-  Devemos criar um programa que separe em funções, a resolução do exercício sobre calcular descontos e juros, que fizemos em uma aula passada.  
+#### O que foi feito no código  
+-  Exercício feito com correções após a aula, separando todas as partes do código em funções.  
+-  Resolução guiada feita tornando apenas o cálculo de desconto e juros em funções.  
+<hr>
