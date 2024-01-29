@@ -2,5 +2,10 @@
 ## Informações sobre estudos e dicas gerais  
 -  Vai ter uma branch para todo o curso.
 -  Vai ter um commit para cada período de estudo.  
+-  Vai ter uma pasta para cada módulo do curso.  
 -  Mudanças na pasta ou mudanças próprias nos arquivos ou na pasta serão feitas na branch main.  
-<hr>
+<hr>  
+
+## Entendendo Objetos  
+### Estrutura básica de um Objeto  
+#### Anotações da aula  
