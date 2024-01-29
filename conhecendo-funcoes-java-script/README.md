@@ -64,4 +64,11 @@ Isso serve para executarmos determinados trechos de código apenas uma vez.
 #### O que foi feito no código  
 -  Exercício proposto feito criando função para verificar se tal pessoa é menor ou maior de idade. Função criado usando como parâmetro, o nome da pessoa e a idade.  
 -  Resolução Guiada do exercício proposto, verificando apenas a idade da pessoa.  
-<hr>
+<hr>  
+
+### Exercício Guiado 3 -Invocando Função Dentro de Outra Função  
+#### Anotações da aula  
+-  Fazer a junção das funções escrevaMeuNome e verificarIdade, chamando a função escrevaMeuNome dentro da função verificar Idade.  
+#### O que foi feito no código  
+-  Exercício feito com correções depois de assitir a aula de resolução. Foi corrigido a parte de contatenar uma string com a outra, e foi ocrrigido o erro undefined, que estava sendo gerado por causa que a função escrevaMeuNome estava retornando um console.log, mas, deveria retornar apenas o texto.  
+-  Resolução guiada do exercício.  
