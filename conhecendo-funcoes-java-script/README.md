@@ -72,3 +72,8 @@ Isso serve para executarmos determinados trechos de código apenas uma vez.
 #### O que foi feito no código  
 -  Exercício feito com correções depois de assitir a aula de resolução. Foi corrigido a parte de contatenar uma string com a outra, e foi ocrrigido o erro undefined, que estava sendo gerado por causa que a função escrevaMeuNome estava retornando um console.log, mas, deveria retornar apenas o texto.  
 -  Resolução guiada do exercício.  
+<hr>  
+
+### Exercício Guiado 4 - Funções Para Calcular Preço  
+#### Anotações da aula  
+-  Devemos criar um programa que separe em funções, a resolução do exercício sobre calcular descontos e juros, que fizemos em uma aula passada.
