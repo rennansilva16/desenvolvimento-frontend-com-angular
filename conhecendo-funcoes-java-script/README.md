@@ -46,4 +46,14 @@
 -  Ao colocarmos **parênteses** entre uma função e depois **abrirmos e fecharmos parênteses logo após o fechamento de parênteses dessa função**, ao executarmos o código, essa função é invocada imediatamente.  
 A sintaxe disso fica dessa forma: **"( function () { *"aqui vai o código da função"* }) ();"**.  
 Ao fazer isso eu posso até tirar o nome dessa função, sendo chamada de função não nomeada. E essa função fica existindo apenas dentro desse parênteses, sem ser possível chama-lá em outro lugar do código.  
-Isso serve para executarmos determinados trechos de código apenas uma vez.
+Isso serve para executarmos determinados trechos de código apenas uma vez.  
+<hr>  
+
+### Exercício Guiado 1 - Função escrevaMeuNome  
+#### Anotações da aula  
+-  Fazer uma função que escreva o seu nome.  
+-  Ao criar funções é recomendado escrever o nome da função usando verbos.  
+#### O que foi feito no código  
+-  Tentativa de resolução feita criando função para escrever apenas o meu nome, chamando ela imediatamente.  
+-  Resolução guiada criando função para escrever o nome de alguém, colocando o nome ao chamar a função.  
+<hr>
