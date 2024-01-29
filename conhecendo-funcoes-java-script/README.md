@@ -54,6 +54,14 @@ Isso serve para executarmos determinados trechos de código apenas uma vez.
 -  Fazer uma função que escreva o seu nome.  
 -  Ao criar funções é recomendado escrever o nome da função usando verbos.  
 #### O que foi feito no código  
--  Tentativa de resolução feita criando função para escrever apenas o meu nome, chamando ela imediatamente.  
+-  Exercício proposto feito criando função para escrever apenas o meu nome, chamando ela imediatamente.  
 -  Resolução guiada criando função para escrever o nome de alguém, colocando o nome ao chamar a função.  
+<hr>
+
+### Exercício Guiado 2 - Função verificarIdade  
+#### Aotações da aula  
+-  Fazer uma função que veja se você é maior de idade.  
+#### O que foi feito no código  
+-  Exercício proposto feito criando função para verificar se tal pessoa é menor ou maior de idade. Função criado usando como parâmetro, o nome da pessoa e a idade.  
+-  Resolução Guiada do exercício proposto, verificando apenas a idade da pessoa.  
 <hr>
