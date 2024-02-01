@@ -43,7 +43,7 @@ for (let i = 0; i < nome.length; i++) {
 
 /*
 Testes/Treino Aula - COMO FUNCIONA A ESTRUTURA FOR
-
+*/
 const notas = [];
 
 notas.push(8);
@@ -63,4 +63,3 @@ for (let i = 0; i < notas.length; i++) {
 
 const media = soma / notas.length;
 console.log(media);
-*/
