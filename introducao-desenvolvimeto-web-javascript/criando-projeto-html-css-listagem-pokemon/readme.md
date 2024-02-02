@@ -19,3 +19,4 @@
 -  Assim como usamos o cdn para o normalize, precisamos fazer a mesma coisa para as fontes que queremos usar.
 -  Uma boa prática e técnica que existe para agilizar o nosso projeto, é começar a estilizar os elementos primeiramente para mobile, o nome comumente usado para isso é **mobile first**. Isso evita muita reescrita de código.
 -  O **"rem"** é uma medida relativa ao tamanho da fonte que o usuário está usando. Usar ele no lugas da mediada **"px"** é bom porque deixa a estilização mais maleável para cada usuário.
+-  Links úteis usados na aula: https://dribbble.com/shots/6540871-Pokedex-App https://pokeapi.co/docs/v2#pokemon
