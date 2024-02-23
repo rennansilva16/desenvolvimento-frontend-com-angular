@@ -4,14 +4,20 @@
 }
 
 body {
-    background-color: #f6f8fc;
+    background: rgb(255,176,53);
+    background: linear-gradient(90deg, rgba(255,176,53,1) 0%, rgba(254,255,105,1) 43%);
 }
 
 .content {
     width: 100vh;
     height: 100vh;
     padding: 1rem;
-    background-color: #fff;
+    background: #F8F8FF;
+}
+
+.content .titulo {
+    color: #2F4F4F;
+    text-align: center;
 }
 
 @media screen and (min-width: 992px) {
