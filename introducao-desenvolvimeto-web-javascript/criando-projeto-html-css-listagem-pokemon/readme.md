@@ -137,3 +137,111 @@ Este exemplo demonstra como fazer uma solicitação GET para a PokeAPI para obte
 Este exemplo incorpora a lógica JavaScript para fazer uma requisição para a PokeAPI e exibir os nomes dos pokémons em uma lista no HTML. Os pokémons são obtidos através da função `fetchPokemons()` e, em seguida, iterados para criar elementos de lista (`<li>`) que são adicionados ao HTML dinamicamente.
 
 --- 
+
+## Utilizando a Função Map para Diminuir a Verbosidade do Nosso Código
+
+### 1. `Pokemons.map`
+
+- **Explicação:** A função `map` é um método disponível em arrays em JavaScript que é usado para iterar sobre cada elemento de um array e aplicar uma função a cada elemento. No contexto das suas anotações, parece que `Pokemons` é um array de objetos representando pokémons, e `map` está sendo usado para realizar alguma operação em cada elemento desse array.
+
+### 2. Função Transformadora
+
+- **Explicação:** Uma função transformadora é uma função que recebe um input e retorna um output transformado de alguma maneira. No contexto do `map`, a função fornecida como argumento para `map` é uma função transformadora que é aplicada a cada elemento do array.
+
+### 3. Index
+
+- **Explicação:** O parâmetro `index` é opcional na função fornecida para o método `map`. Ele representa o índice do elemento atual sendo processado no array. Isso pode ser útil em certas situações para realizar operações com base na posição do elemento no array.
+
+### 4. Parâmetro
+
+- **Explicação:** Um parâmetro é uma variável que é passada para uma função quando ela é chamada. No contexto de `map`, a função fornecida como argumento pode aceitar um ou mais parâmetros, dependendo do que é necessário para realizar a transformação desejada em cada elemento do array.
+
+### 5. Concatenar
+
+- **Explicação:** Concatenar é o ato de unir duas ou mais strings ou arrays em uma única string ou array. No contexto das suas anotações, parece que você está concatenando elementos de uma lista para formar uma string que será atribuída à propriedade `innerHTML` de algum elemento HTML.
+
+### 6. `pokemonList.InnerHTML += newHtml`
+
+- **Explicação:** Essa linha de código está adicionando uma nova string HTML à propriedade `innerHTML` de algum elemento HTML chamado `pokemonList`. Isso provavelmente está sendo feito dentro de um loop ou após o processamento de uma lista de elementos.
+
+### 7. `const newHtml = newList.join("")`
+
+- **Explicação:** O método `join` é usado em arrays para concatenar todos os elementos do array em uma única string, separados por um separador especificado (no caso das suas anotações, nenhum separador está sendo usado, pois o parâmetro é uma string vazia `""`). O resultado é armazenado na variável `newHtml`.
+
+### 8. `.join`
+
+- **Explicação:** O método `join` é usado para unir os elementos de um array em uma string, conforme mencionado anteriormente.
+
+### 9. `.innerHTML`
+
+- **Explicação:** A propriedade `innerHTML` é usada para obter ou definir o conteúdo HTML de um elemento. Quando definida, ela substitui todo o conteúdo HTML existente dentro do elemento pelo novo conteúdo atribuído.
+
+### 10. Criar Função Usando `=>{}`
+
+- **Explicação:** Isso se refere à sintaxe de arrow functions em JavaScript. As arrow functions são uma maneira concisa de escrever funções em JavaScript, especialmente quando a função é pequena e simples. A sintaxe básica é `() => {}`, onde `() ` representa os parâmetros da função (se houver) e `{}` representa o corpo da função.
+
+---
+
+## "Revisando o Nosso Código E Entendendo Os Próximos Passos"
+
+### 1. Como Manipular uma Promise
+
+- **Explicação:** Promises são objetos usados em JavaScript para operações assíncronas. Manipular uma Promise envolve lidar com seu estado (pendente, resolvido ou rejeitado) e os valores que ela eventualmente produzirá.
+
+### 2. Como Manipular uma Lista de Objetos
+
+- **Explicação:** Manipular uma lista de objetos envolve iterar sobre ela, acessar propriedades específicas de cada objeto e realizar operações com esses objetos conforme necessário.
+
+### 3. Como Transformar Essa Lista de Objetos em Outro Tipo
+
+- **Explicação:** Transformar uma lista de objetos em outro tipo pode envolver converter os objetos em um formato diferente (por exemplo, de JSON para um objeto JavaScript) ou modificar a estrutura da lista de alguma maneira (por exemplo, filtrar ou mapear os objetos).
+
+### 4. Como Juntar Esses Objetos de uma Forma Fácil, Concatenar Eles
+
+- **Explicação:** Juntar objetos de uma forma fácil geralmente envolve usar métodos como `concat` ou `push` para adicionar objetos a uma lista ou usar operadores de concatenação para unir strings que representam os objetos.
+
+### 5. Como Manipular o HTML
+
+- **Explicação:** Manipular o HTML envolve acessar elementos HTML no DOM (Modelo de Objeto de Documento) usando JavaScript e realizar alterações nesses elementos, como alterar seu conteúdo, estilo ou atributos.
+
+### 6. `promise`
+
+- **Explicação:** Uma promise em JavaScript é um objeto que representa um valor que pode estar disponível agora, no futuro ou nunca. Promises são usadas para operações assíncronas.
+
+### 7. `fetch(url)`
+
+- **Explicação:** A função `fetch` é usada para fazer requisições HTTP assíncronas em JavaScript. Ela retorna uma promise que eventualmente resolve com a resposta da requisição.
+
+### 8. `Promise.all([])`
+
+- **Explicação:** O método `Promise.all` é usado para aguardar que todas as promises em um array sejam resolvidas. Ele retorna uma nova promise que resolve com um array de resultados quando todas as promises do array original forem resolvidas com sucesso.
+
+### 9. `.then`
+
+- **Explicação:** O método `then` é usado em promises para especificar o que deve acontecer depois que a promise for resolvida com sucesso. Ele recebe uma função de callback que será chamada com o valor resolvido da promise.
+
+### 10. `.then((response) => response.json())`
+
+- **Explicação:** Esta é uma cadeia de métodos `then` que está sendo usada para processar a resposta de uma requisição fetch e extrair o corpo da resposta como JSON.
+
+### 11. `return fetch(url)`
+
+- **Explicação:** Esta linha de código está fazendo uma requisição fetch para a URL especificada e retornando a promise resultante para que ela possa ser encadeada com outros métodos `then`.
+
+---
+
+## "Convertendo o Modelo do PokeApi para Nosso Modelo"
+
+### 1. `<script src=’’></script>`
+
+- **Explicação:** Essa tag HTML é usada para importar arquivos JavaScript externos para um documento HTML. O atributo `src` especifica o URL do arquivo JavaScript que será importado.
+
+### 2. Destructuring
+
+- **Explicação:** Destructuring é uma técnica em JavaScript que permite extrair dados de arrays ou objetos em variáveis individuais de forma mais concisa. Isso é útil quando você deseja acessar propriedades de objetos ou elementos de arrays de uma maneira mais simplificada e direta.
+
+### 3. Listas
+
+- **Explicação:** No contexto de JavaScript, uma lista geralmente se refere a uma estrutura de dados que contém uma coleção de elementos ordenados. Em JavaScript, listas são frequentemente representadas como arrays, que podem conter qualquer tipo de dado e podem ser facilmente manipuladas e percorridas.
+
+---
